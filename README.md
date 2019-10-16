@@ -1,4 +1,4 @@
-# The Planet
+# A Solar System
 
 ```
 // GROUP NUMBER:13
@@ -9,6 +9,8 @@
 // STUDENT NAME: FAN QIANYI	
 // NUS User ID.: t0918683
 ```
+The temp link for this shader is here:https://www.shadertoy.com/view/tllSzs
+
 ## VIEW
 
 
@@ -47,11 +49,11 @@ In the buffer of image, You may configurate iChannel like this.
 
 So, finally the environment looks like this:
 
-![1bcaf7cb3819f01c30234dbd226de430]( resources/屏幕快照 2019-07-24 下午11.47.22.png)
+![1bcaf7cb3819f01c30234dbd226de430]( resources/22.png)
 
-![52aef29142d1a812013face1a17fb96b]( resources/屏幕快照 2019-07-24 下午11.47.26.png)
+![52aef29142d1a812013face1a17fb96b](resources/26.png)
 
-![577d6562657cacbda4012dc825011c73]( resources/屏幕快照 2019-07-24 下午11.47.30.png)
+![577d6562657cacbda4012dc825011c73](resources/30.png)
 
 If it doesn't work well, Here is the temp link for the shader.
 
